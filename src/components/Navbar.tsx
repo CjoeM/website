@@ -22,13 +22,13 @@ export const Navbar = () => {
             <img 
               src="/lovable-uploads/0601b390-04af-4e1c-96f6-1846815a48af.png" 
               alt="Olles Tech Logo" 
-              className="h-14 w-auto"
+              className="h-14  w-auto"
             />
           </div>
         
         <div className="pointer-events-none absolute left-0 top-0 h-full w-12 bg-gradient-to-r from-black to-transparent z-20" />
         <div className="pointer-events-none absolute right-0 top-0 h-full w-16 bg-gradient-to-l from-black to-transparent z-20" />
-        <div className="flex w-max animate-marquee items-center whitespace-nowrap flex gap-[130px] text-transparent font-bold bg-clip-text bg-gradient-to-r from-orange-400 to-emerald-400">
+        <div className="flex w-max animate-marquee items-center whitespace-nowrap flex gap-[90px] text-transparent font-bold bg-clip-text bg-gradient-to-r from-orange-400 to-emerald-400">
           <span>  🚀 Coming Soon — Features Arriving In Time! Stay Tuned 🚀</span>
           <span> 🚀 Coming Soon — Features Arriving In Time!! Stay Tuned 🚀</span>
           
